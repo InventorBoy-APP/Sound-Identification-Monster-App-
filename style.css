@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+    background-color:gold;
+}
+#textTitle{
+    font-size:x-large;
+    letter-spacing: 2px;
+
+}
+#soundLabel{
+    font-size:x-small;
+    letter-spacing: 3px;
+}
+.headerDiv{
+    background-color: deepskyblue;
+    font-family: 'MedievalSharp', cursive;
+    color:gold;
+}
+#start{
+    font-family: 'Luckiest Guy', cursive;
+    color:gold;
+    margin-top:20px;
+}
+.something{
+    position:fixed;
+    bottom:0;
+    line-height: 3;
+    text-shadow: 3px 3px 3px #FFD700;
+    color:grey;
+    background-color:deepskyblue;
+    width:100%;
+    font-family: 'Luckiest Guy', cursive;
+}
